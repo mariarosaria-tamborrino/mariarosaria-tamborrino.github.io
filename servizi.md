@@ -1,3 +1,9 @@
+---
+layout: page
+title: Servizi
+permalink: /servizi
+---
+
 Sono una psicologa e mi occupo di diagnosi, valutazione e riabilitazione neuropsicologica. Inoltre sono una [psicoterapeuta ad orientamento cognitivo-comportamentale](https://www.psicologalecce.com/blog/come-funziona-la-psicoterapia-cognitivo-comportamentale), formata in **schema therapy** e **EMDR**. Nel mio lavoro mi avvalgo anche dell'ausilio del [biofeedback](https://www.psicologalecce.com/blog/cose-il-biofeedback-quando-e-utile), procedura che ha dimostrato di essere efficace nel trattamento di numerosi disturbi.
 
 Svolgo le mie attività:
