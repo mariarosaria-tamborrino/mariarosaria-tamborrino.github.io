@@ -25,30 +25,30 @@ Per informazioni o per fissare un appuntamento:
 Via Teofilo, 80 - Martano (Le)
 </p>
 
-<div id="map_martano"></div>
+<div id="map_martano" style="height:100%;"></div>
 
 <p>
 Via Padre Bernardo Paoloni, 16 - Lecce
 </p>
 
-<div id="map_lecce"></div>
+<div id="map_lecce" style="height:100%;"></div>
 
 <script>
 	function initMaps() {
 	
 	  var martano = {lat: 40.198222, lng: 18.306647};
-	 // var lecce = {lat: 40.338176, lng: 18.162865};
+	  var lecce = {lat: 40.338176, lng: 18.162865};
 	
 	  var map_martano = new google.maps.Map(
 	      document.getElementById('map_martano'), {zoom: 4, center: martano}
 	  );
     
-          //var map_lecce = new google.maps.Map(
-	  //    document.getElementById('map_lecce'), {zoom: 4, center: lecce}
-	  //);
+          var map_lecce = new google.maps.Map(
+	      document.getElementById('map_lecce'), {zoom: 4, center: lecce}
+	  );
 	
 	  var marker_martano = new google.maps.Marker({position: martano, map: map_martano});
-	  //var marker_lecce = new google.maps.Marker({position: lecce, map: map_lecce});
+	  var marker_lecce = new google.maps.Marker({position: lecce, map: map_lecce});
 	}
 </script>
 
