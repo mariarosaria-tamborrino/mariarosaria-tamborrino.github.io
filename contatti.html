@@ -4,12 +4,54 @@ title: Contatti
 permalink: /contatti
 ---
 
+<p>
 Per informazioni o per fissare un appuntamento:
 
--   chiamare al numero 339.5309686,
--   scrivere a mariarosaria.tamborrino@gmail.com .
+<ul>
+  <li>chiamare al numero 339.5309686,</li>
+  <li>scrivere a mariarosaria.tamborrino@gmail.com .</li>
+</ul>
+</p>
 
 <div id="ie_dynamic_widget" data-base-color="">
   <script type="text/javascript" 
-  src="https://www.guidapsicologi.it/widget/company_schedule?com=144274&amp;h=3e5d193056b48d9a83f915c82975a8b4&amp;v=10" />
+    src="https://www.guidapsicologi.it/widget/company_schedule?com=144274&amp;h=3e5d193056b48d9a83f915c82975a8b4&amp;v=10"> 
+  </script>
 </div>
+
+<h3 id="sedi">Sedi</h3>
+
+<p>
+Via Teofilo, 80 - Martano (Le)
+</p>
+
+<div id="map_martano"></div>
+
+<p>
+Via Padre Bernardo Paoloni, 16 - Lecce
+</p>
+
+<div id="map_lecce"></div>
+
+<script>
+	function initMaps() {
+	
+	  var martano = {lat: -25.344, lng: 131.036};
+	  var lecce = {lat: -25.344, lng: 131.036};
+	
+	  var map_martano = new google.maps.Map(
+	      document.getElementById('map_martano'), {zoom: 4, center: martano}
+	  );
+    
+    var map_lecce = new google.maps.Map(
+	      document.getElementById('map_lecce'), {zoom: 4, center: lecce}
+	  );
+	
+	  var marker_martano = new google.maps.Marker({position: martano, map: map_martano});
+	  var marker_lecce = new google.maps.Marker({position: lecce, map: map_lecce});
+	}
+</script>
+
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYGn1RrO2mfez3l0xEfLNBkGNgBCvagc8&callback=initMaps">
+</script>
