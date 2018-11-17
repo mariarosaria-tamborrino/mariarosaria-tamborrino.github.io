@@ -1,18 +1,63 @@
 ---
-layout: default
+title: "Maria Rosaria Tamborrino"
+layout: splash
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/albero_nel_lago_1280.jpg
+  actions:
+    - label: "Scopri di più..."
+      url: "/chi-sono"
+# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
+excerpt: "Psicologa e psicoterapeuta"
+
+intro: 
+- excerpt: "*Ogni giorno sarai tentato <br> di reagire nello stesso vecchio modo di sempre...\
+<br>Chiediti allora se vuoi essere <br> un prigioniero del tuo passato o il pionere del tuo futuro.*\
+  <br>(Deepack Chopra)"
+  
+feature_row:
+  - image_path: assets/images/panchina_old.jpg
+    alt: "Psicoterapia"
+    title: "Psicoterapia"
+    excerpt: "- Psicoterapia per disturbi d'ansia e dell'umore\
+
+- Sostegno psicologico\
+
+- Consulenza psicologica online\
+
+- Trattamento con Biofeedback"
+  - image_path: /assets/images/comprensione_testo_old.jpeg
+    alt: "Neuropsicologia"
+    title: "Neuropsicologia"
+    excerpt: "- Valutazione neuropsicologica\
+
+- Riabilitazione cognitiva\
+
+- Disturbi dell'apprendimento\
+
+- Disturbo da deficit di attenzione e iperattività/impulsività"
+    url: "/servizi"
+    btn_label: "Scopri di più..."
+  - image_path: /assets/images/contatti_old.jpeg
+    title: "Contatti"
+    excerpt: "Per informazioni o per fissare un appuntamento:\
+
+- chiamare al numero 339 5309686,\
+
+- scrivere a mariarosaria.tamborrino@gmail.com"
+    url: "/contatti"
+    btn_label: "Scopri di più..."
+
+feature_row_post:
+  btn_label: "Scopri di più..."
 ---
 
-<div class="posts">
-  {% assign post = site.posts.first %}
-  <article class="post">
+{% include feature_row id="intro" type="center" %}
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+{% include feature_row %}
 
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>
+{% include feature_row_post %}
 
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leggi tutto</a>
-  </article>
-
-</div>
