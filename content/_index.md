@@ -1,12 +1,12 @@
 ---
 title: ""
 description: "Dott.ssa Maria Rosaria Tamborrino"
-jobs: "Psicologa, psicoterapeuta, EMDR Practitioner" 
-interests: "Mi occupo di neuropsicologia dell'età evolutiva e adulta e di psicoterapia cognitivo-comportamentale"
+jobs: "Psicologa, psicoterapeuta cognitivo-comportamentale, EMDR Practitioner" 
+interests: ""
 date: 2023-03-12T23:41:10+01:00
 cascade:
   omit_header_text: false
-  featured_image: 'Bokeh.jpg'
+  featured_image: 'sfondo_pagina_1.png'
 draft: true
 ---
 
