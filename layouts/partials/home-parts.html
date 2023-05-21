@@ -1,13 +1,15 @@
 {{ range where .Site.Pages "Params.home_part" true }}
-	{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-	<div class="flex flex-column flex-row-ns pt5 pb6">
-		<div class="blah w-100 w-60-ns f6 f5-l ">
-			<div class="fw1 f5 f2-l white-90 part-title">{{ .Params.part_title }}</div>
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+
+	<div class="flex flex-column flex-row-ns ">
+		<div class="blah w-100 w-60-ns f6 f5-l pt5 pb6" >
+			<div class="fw1 f2 f2-l part-title">{{ .Params.part_title }}</div>
 			{{ .Content }}
 		</div>
 		<div class="mb4 mb0-ns w-100 w-40-ns">
-            <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
-        </div>
+			<img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+		</div>
 	</div>
+
 
 {{ end }}

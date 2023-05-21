@@ -3,7 +3,7 @@ title: "Di cosa mi occupo"
 date: 2023-03-21T22:51:27+01:00
 draft: true
 home_part: true
-featured_image: "biofeedback-psy-bolle.jpg"
+featured_image: "biofeedback-psy-bolle.png"
 part_title: "Il mio lavoro ..."
 ---
 

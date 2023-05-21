@@ -5,21 +5,21 @@
     <div>
       {{ partial "site-navigation.html" .}}
       <div class="tc-l pv4 pt5-l pb7-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title site-header">
+        <h1 class="f1 f-subheadline-l fw2 black-85 mb0 lh-title site-header">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+          <h2 class="fw1 f5 f3-l black-85 measure-wide-l center mt3">
             {{ . }}
           </h2>
         {{ end }}
         {{ with .Params.jobs }}
-          <h3 class="fw1 f5 white-80 measure-wide-l center mt3">
+          <h3 class="fw1 f5 black-85 measure-wide-l center mt3">
             {{ . }}
           </h3>
         {{ end }}
         {{ with .Params.interests }}
-          <h3 class="fw1 f5 white-80 measure-wide-l center mt3">
+          <h3 class="fw1 f5 black-85 measure-wide-l center mt3">
             {{ . }}
           </h3>
         {{ end }}
@@ -35,17 +35,17 @@
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+          <h2 class="fw1 f5 f3-l black-85 measure-wide-l center lh-copy mt3 mb4">
             {{ . }}
           </h2>
         {{ end }}
         {{ with .Params.jobs }}
-          <h3 class="fw1 f5 white-80 measure-wide-l center mt3">
+          <h3 class="fw1 f5 black-85 measure-wide-l center mt3">
             {{ . }}
           </h3>
         {{ end }}
         {{ with .Params.interests }}
-          <h3 class="fw1 f5 white-80 measure-wide-l center mt3">
+          <h3 class="fw1 f5 black-85 measure-wide-l center mt3">
             {{ . }}
           </h3>
         {{ end }}

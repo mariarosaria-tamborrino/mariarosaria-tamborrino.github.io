@@ -6,11 +6,11 @@
       {{ partial "site-navigation.html" . }}
       <div class="tc-l pt5-l pb5-l ph3 ph4-ns">
         {{ if not .Params.omit_header_text }}
-          <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title site-header">
+          <h1 class="f2 f-subheadline-l fw2 black-85 mb0 lh-title site-header">
             {{ .Title | default .Site.Title }}
           </h1>
           {{ with .Params.description  }}
-            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+            <div class="fw1 f5 f3-l black-85 measure-wide-l center lh-copy mt3 mb4">
               {{ . }}
             </div>
           {{ end }}
