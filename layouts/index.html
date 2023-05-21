@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ $background_image := partial "func/GetBackgroundImage.html" . }}
-<div style="background: linear-gradient(to bottom, rgba(255,244,244,0) 97%, rgba(255,244,244,1)) 3%, url('{{ $background_image }}'); background-repeat: repeat-y;">
+<div style="background: linear-gradient(to bottom, rgba(255,244,244,0) 97%, rgba(255,244,244,1)) 100%, url('{{ $background_image }}'); background-repeat: repeat-y;">
 
 {{ partial "home-parts.html" . }}
 
