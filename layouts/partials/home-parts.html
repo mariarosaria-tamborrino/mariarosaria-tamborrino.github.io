@@ -1,7 +1,7 @@
 {{ range where .Site.Pages "Params.home_part" true }}
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 
-	<div class="flex flex-column flex-row-ns ">
+	<div class="flex flex-column flex-row-ns pl3-ns">
 		<div class="blah w-100 w-60-ns f6 f5-l pt5 pb6" >
 			<div class="fw1 f2 f2-l part-title">{{ .Params.part_title }}</div>
 			{{ .Content }}
