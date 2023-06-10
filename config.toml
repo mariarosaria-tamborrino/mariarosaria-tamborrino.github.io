@@ -23,17 +23,19 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  text_color = "dark-blue"
+  text_color = "dark-gray"
   author = "Maria Rosaria Tamborrino"
   description = "Dott.ssa Maria Rosaria Tamborrino - psicologa, psicoterapeuta, EMDR Practitioner. Si occupa di neuropsicologia dell'età evolutiva e adulta e di psicoterapia cognitivo-comportamentale"
   favicon = ""
   site_logo = "logo.png"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-near-white"
+  background_color_class = "bg-all-site"
+  footer_background_color_class = "bg-near-white"
   recent_posts_number = 3
   featured_image = "sfondo_pagina_1.png"
-  body_classes = "site-body bg-near-white"
+  body_classes = "site-body bg-all-site"
   custom_css = ["custom.css"]
+  date_format = "02 January 2006"
 
 [menu]
 [[menu.main]]
