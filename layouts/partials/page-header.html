@@ -1,19 +1,20 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ $featured_image := partial "func/GetBackgroundImage.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <header class="cover bg-top" style="background: linear-gradient(to bottom, rgba(255,244,244,0) 90%, rgba(255,244,244,1) 10%), url('{{ $featured_image }}');">
-    <div class="bg-black-60">
+  <header class="cover bg-top" style="background: linear-gradient(to bottom, rgba(255,244,244,0) 90%, rgba(255,244,244,1) 100%), url('{{ $featured_image }}');">
+    <div>
       {{ partial "site-navigation.html" . }}
       <div class="tc-l pt5-l pb5-l ph3 ph4-ns">
         {{ if not .Params.omit_header_text }}
-          <h1 class="f2 f-subheadline-l fw2 black-85 mb0 lh-title site-header">
+          <h1 class="f2 f-subheadline-l fw2 mb0 lh-title site-header">
             {{ .Title | default .Site.Title }}
           </h1>
           {{ with .Params.description  }}
-            <div class="fw1 f5 f3-l black-85 measure-wide-l center lh-copy mt3 mb4">
+            <div class="fw1 f5 f3-l measure-wide-l center lh-copy mt3 mb4">
               {{ . }}
             </div>
           {{ end }}
+        {{ else }}
         {{ end }}
       </div>
     </div>

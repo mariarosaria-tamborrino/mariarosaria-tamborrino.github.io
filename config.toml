@@ -43,6 +43,11 @@ enableRobotsTXT = true
   pageRef = '/'
   weight = 1
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
 
 [[params.ananke_socials]]
 name = "facebook"

@@ -2,10 +2,15 @@
 title: "Come Il Cervello Si Distrae Dalle Distrazioni"
 date: 2015-02-09
 omit_header_text: true
+background_image: 'sfondo_articoli.png'
+featured_image:
+show_featured_image_at_the_top: false
+show_featured_image_at_the_bottom: false
+show_reading_time: true
 draft: true
 ---
 
-Sono degli specifici schemi di sincronizzazione fra le onde cerebrali alfa e beta di aree diverse del cervello a consentirci di ignorare gli stimoli sensoriali che potrebbero interferire con la nostra concentrazione. A scoprirlo è un gruppo di ricercatori della Brown University, del'Università di Harvard e del MIT che firmano un articolo sul “Journal of Neurosciences”. 
+Sono degli specifici schemi di sincronizzazione fra le onde cerebrali alfa e beta di aree diverse del cervello a consentirci di ignorare gli stimoli sensoriali che potrebbero interferire con la nostra concentrazione. A scoprirlo è un gruppo di ricercatori della Brown University, del'Università di Harvard e del MIT che firmano un articolo sul “Journal of Neurosciences”.
 Nel loro studio sui meccanismi della concentrazione, Stephanie Jones e colleghi hanno adottato una strategia inversa a quella usata in genere in queste ricerche, cercando di analizzare in che modo il cervello riesce a “distrarsi dalle distrazioni”: quando ci si concentra su qualcosa, infatti, è necessario ignorare tutto ciò che potrebbe distrarre.
 
 I loro risultati nascono dalle scansioni del cervello di 12 volontari, a cui era stato chiesto di concentrarsi su uno stimolo alla mano (o al piede) e ignorare tutto il resto, compresi eventuali stimoli all'altra parte del corpo.
