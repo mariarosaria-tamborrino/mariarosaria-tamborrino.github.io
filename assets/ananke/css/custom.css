@@ -14,3 +14,6 @@
     background-color: #FFF4F4;
 }
 
+html {
+    scroll-behavior: smooth;
+}
