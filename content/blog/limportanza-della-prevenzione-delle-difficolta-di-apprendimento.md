@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Come riportato nell’art. 1 della legge 170/2010, la dislessia, la

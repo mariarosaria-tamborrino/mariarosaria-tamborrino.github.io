@@ -7,7 +7,7 @@ featured_image: 'articles/232351405_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 La caratteristica essenziale di questo disturbo è la notevole presenza di

@@ -7,7 +7,7 @@ featured_image: 'articles/training-autogeno-2018_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 A partire da gennaio 2018 organizzerò un corso di **training autogeno** presso

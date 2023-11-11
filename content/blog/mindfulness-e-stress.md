@@ -7,7 +7,7 @@ featured_image: 'articles/328981961_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 ​ **Mindfulness** significa _essere consapevoli del momento presente, capire

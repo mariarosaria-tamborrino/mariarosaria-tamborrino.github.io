@@ -7,7 +7,7 @@ featured_image: 'articles/cervello-puzzle_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Obiettivo del corso è fornire ai partecipanti le competenze di base per

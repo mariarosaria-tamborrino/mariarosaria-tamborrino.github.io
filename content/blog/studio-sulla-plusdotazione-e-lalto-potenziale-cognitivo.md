@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 L'associazione **[Mentecomportamento](http://www.mentecomportamento.it/)** , di cui faccio parte, sta conducendo uno studio sulla **Plusdotazione** e l' **Alto Potenziale Cognitivo** .   

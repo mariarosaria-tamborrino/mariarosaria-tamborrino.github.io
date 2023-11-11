@@ -7,7 +7,7 @@ featured_image: 'articles/locandina-plsudotazione-febbraio-2019_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 7 febbraio 2019 ci sarà a Lecce il Convegno Internazionale **"Gifted

@@ -7,7 +7,7 @@ featured_image: 'articles/foto-apc_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Quando di parla di " **plusdotazione cognitiva** " ci riferisce a b ambini con

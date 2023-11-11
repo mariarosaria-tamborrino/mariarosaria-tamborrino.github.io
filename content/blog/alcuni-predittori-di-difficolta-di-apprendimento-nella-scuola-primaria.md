@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Nei primi anni della scuola primaria è possibile individuare una serie di

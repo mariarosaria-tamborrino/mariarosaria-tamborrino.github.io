@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 5 Febbraio e il 19 febbraio alle ore 19.00, insieme alla dott.ssa Rosamaria

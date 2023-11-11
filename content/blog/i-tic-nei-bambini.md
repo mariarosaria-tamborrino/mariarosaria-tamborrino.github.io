@@ -7,7 +7,7 @@ featured_image: 'articles/tic-bambini_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 I tic sono movimenti ( **tic motori** ) o suoni ( **tic fonici** ) improvvisi,

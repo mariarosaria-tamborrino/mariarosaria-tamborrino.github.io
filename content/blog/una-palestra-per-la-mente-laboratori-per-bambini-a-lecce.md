@@ -7,7 +7,7 @@ featured_image: 'articles/palestra-per-la-mente-2018_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 A partire dal **20 gennaio 2018** presso il mio studio di **Lecce** saranno

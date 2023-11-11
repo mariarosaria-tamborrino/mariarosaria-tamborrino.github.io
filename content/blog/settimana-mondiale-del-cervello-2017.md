@@ -7,7 +7,7 @@ featured_image: 'articles/copertina-baw-2017_orig.png'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 La **[Settimana Mondiale del Cervello](http://settimanadelcervello.it/)** è una campagna per parlare delle nuove scoperte neuroscientifiche e sensibilizzare l’opinione pubblica circa l’importanza della ricerca.   

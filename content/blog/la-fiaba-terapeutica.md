@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 La fiaba terapeutica ha l'obiettivo di fornire al bambino degli spunti e degli

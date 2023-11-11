@@ -7,7 +7,7 @@ featured_image: 'articles/family-492891-960-720_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Negli ultimi anni si è assistito a una crescente attenzione nei confronti del **coinvolgimento attivo dei genitori** all'interno dei percorsi terapeutici di soggetti problematici con disabilità intellettiva o [disturbi delle spettro autistico](/blog/i-disturbi-dello-spettro-autistico) .   

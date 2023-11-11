@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 " **Mio figlio non mi ascolta!** "... Il _4 novembre alle 17.30_ ci sarà un

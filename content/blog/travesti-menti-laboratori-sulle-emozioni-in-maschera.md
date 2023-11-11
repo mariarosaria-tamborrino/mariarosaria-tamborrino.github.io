@@ -7,7 +7,7 @@ featured_image: 'articles/locandina-travesti-menti_3_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 12 e 13 febbraio, in occasione di **Carnevale** , organizzerò insieme alla

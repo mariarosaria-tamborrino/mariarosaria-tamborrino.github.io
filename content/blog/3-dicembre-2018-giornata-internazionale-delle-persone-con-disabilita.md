@@ -7,7 +7,7 @@ featured_image: 'articles/carpignano-3-dicembre-2018_orig.jpg'
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: true
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Vi aspetto all'Assemblea che si svolgerà il prossimo 3 dicembre a **Carpignano Salentino** (Le) per parlare di **disabilità** in un convegno organizzato dall'Amministrazione Comunale in collaborazione con l'**ASD Mollare Mai**.

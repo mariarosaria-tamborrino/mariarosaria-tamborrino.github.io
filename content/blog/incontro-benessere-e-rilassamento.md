@@ -7,7 +7,7 @@ featured_image: 'articles/locandina-rilassamento-finale_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Le **tecniche di rilassamento** favoriscono una sensazione soggettiva di

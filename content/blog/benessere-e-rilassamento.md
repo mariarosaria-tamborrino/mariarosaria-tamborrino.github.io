@@ -7,7 +7,7 @@ featured_image: 'articles/benessere-e-rilassamento-melpignano-2_orig.png'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il **29 settembre 2017** terrò un incontro gratuito in cui, attraverso

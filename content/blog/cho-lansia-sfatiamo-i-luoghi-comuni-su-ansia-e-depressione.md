@@ -7,7 +7,7 @@ featured_image: 'articles/baw-2023-locandina_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 **Venerdì 17 marzo alle 19.00** vi aspetto presso la **Farmacia Letteraria Corte Grande** a **Martano** per un incontro riguardante la salute mentale, organizzato nell'ambito de **["La Settimana del Cervello"](https://www.settimanadelcervello.it/)** .   

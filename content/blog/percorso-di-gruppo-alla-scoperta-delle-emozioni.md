@@ -7,7 +7,7 @@ featured_image: 'articles/alla-scoperta-delle-emozioni_1_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Nel periodo di **giugno-luglio** organizzerò delle attività in **piccoli

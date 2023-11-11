@@ -7,7 +7,7 @@ featured_image: 'articles/locandina-plusdotazione-martano-2020_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 23 gennaio 2020 terrò un seminario gratuito sulla **plusdotazione cognitiva e l'alto potenziale cognitivo** , in collaborazione con l'Associazione [Mentecomportamento](https://www.mentecomportamento.it/) .   

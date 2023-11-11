@@ -7,7 +7,7 @@ featured_image: 'articles/corso-plusdotazione-miur_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 2% degli studenti mostra delle abilità cognitive eccezionalmente elevate,

@@ -7,7 +7,7 @@ featured_image: 'articles/comprensione-del-testo_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 I bambini con **disturbo di comprensione del testo** hanno significative

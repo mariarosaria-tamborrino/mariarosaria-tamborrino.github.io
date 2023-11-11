@@ -7,7 +7,7 @@ featured_image: 'articles/locandina-mese-del-benessere-rilassamento-trepuzzi_ori
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 In occasione del **Mese del benessere psicologico** terrò un incontro pratico

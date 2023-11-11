@@ -7,7 +7,7 @@ featured_image: 'articles/163_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Diverse branche della psicologia si sono occupate nel tempo di studiare le

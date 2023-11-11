@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 La **[dislessia evolutiva](/blog/cose-la-dislessia)** costituisce l'entità clinica più rappresentativa della categoria dei  **disturbi specifici dell'apprendimento** (DSA). Con tale termine si intende una  _difficoltà nella lettura_ non dovuta ad altri fattori, come cattiva istruzione, deficit sensoriali o ritardo mentale.   

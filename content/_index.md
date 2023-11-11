@@ -9,6 +9,6 @@ cascade:
   omit_header_text: false
   featured_image: 'sfondo_pagina_1.png'
   background_image: "sfondo_parte.png"
-draft: true
+draft: false
 ---
 

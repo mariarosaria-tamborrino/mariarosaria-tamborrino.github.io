@@ -7,7 +7,7 @@ featured_image: 'articles/4827125_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il 2 aprile è la giornata mondiale per la consapevolezza dell'autismo e in tale occasione condivido qui questa interessante infografica della casa editrice [Erickson](http://www.erickson.it) .   

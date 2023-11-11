@@ -7,7 +7,7 @@ featured_image:
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 In occasione del **[Mese del benessere psicologico](https://www.mesedelbenesserepsicologico.it/)** , degli incontri gratuiti rivolti a tutti i **genitori** che voglio migliorare il rapporto con i propri figli.   

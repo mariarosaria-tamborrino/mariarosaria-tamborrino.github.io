@@ -7,7 +7,7 @@ featured_image: 'articles/incontro-genitori-melpignano-2_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Quest'anno parteciperò al " **Mese del Benessere psicologico** ", iniziativa

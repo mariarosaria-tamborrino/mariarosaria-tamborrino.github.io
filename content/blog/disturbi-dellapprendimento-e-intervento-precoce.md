@@ -7,7 +7,7 @@ featured_image: 'articles/intervento-dsa_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Un importante interrogativo relativo agli interventi sui **disturbi specifici

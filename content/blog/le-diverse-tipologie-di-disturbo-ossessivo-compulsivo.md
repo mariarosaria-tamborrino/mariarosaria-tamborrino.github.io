@@ -7,7 +7,7 @@ featured_image: 'articles/lavare-mani_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Il [disturbo ossessivo-compulsivo (DOC)](/blog/cose-il-disturbo-ossessivo-compulsivo) può assumere diverse forme, che possono essere presenti anche in contemporanea. Nella pratica clinica vengono distinti:   

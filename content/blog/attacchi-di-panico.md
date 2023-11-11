@@ -7,7 +7,7 @@ featured_image: 'articles/attacco-di-panico_orig.jpg'
 show_featured_image_at_the_top: true
 show_featured_image_at_the_bottom: false
 show_reading_time: true
-draft: true
+draft: false
 ---
 
 Si possono esaminare gli [attacchi di panico](/blog/cose-un-attacco-di-panico) da un punto di vista **psicofisiologico** e anche da un punto di vista **cognitivo** .   
