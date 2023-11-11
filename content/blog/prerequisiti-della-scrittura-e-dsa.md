@@ -38,10 +38,10 @@ lettere tra di loro.
 Il bambino per scrivere deve rispettare delle regole relative alla
 disposizione spaziale delle lettere e delle parole all'interno della pagina.  
   
-La  **[disortografia](http://www.psicologalecce.com/blog/quando-scrivere-e-un-problema-la-disortografia)** è un _disturbo specifico dell'apprendimento_ (DSA) caratterizzato da difficoltà nel rispettare le regole di trasformazione del linguaggio parlato in linguaggio scritto. Quindi, il bambino commette numerosi errori di ortografia.  
-Quando parliamo di  **[disgrafia](http://www.psicologalecce.com/blog/quando-scrivere-e-il-problema-la-disgrafia)** , invece, **** ci riferiamo ad un DSA che coinvolge la scrittura nella sua componente esecutivo-motoria. ​Pertanto, la scrittura appare spesso illegibile e disordinata.  
+La  **[disortografia](/blog/quando-scrivere-e-un-problema-la-disortografia)** è un _disturbo specifico dell'apprendimento_ (DSA) caratterizzato da difficoltà nel rispettare le regole di trasformazione del linguaggio parlato in linguaggio scritto. Quindi, il bambino commette numerosi errori di ortografia.  
+Quando parliamo di  **[disgrafia](/blog/quando-scrivere-e-il-problema-la-disgrafia)** , invece, **** ci riferiamo ad un DSA che coinvolge la scrittura nella sua componente esecutivo-motoria. ​Pertanto, la scrittura appare spesso illegibile e disordinata.  
   
-Se sospettate che vostro figlio abbia difficoltà di apprendimento, rivolgetevi ad un professionista per una [valutazione ](http://www.psicologalecce.com/blog/disturbi-specifici-dellapprendimento-limportanza-della-valutazione)approfondita.    
+Se sospettate che vostro figlio abbia difficoltà di apprendimento, rivolgetevi ad un professionista per una [valutazione ](/blog/disturbi-specifici-dellapprendimento-limportanza-della-valutazione)approfondita.    
   
 _Riferimenti bibliografici: Blascon et al. (2004). Il corsivo dalla A alla Z.
 Un metodo per insegnare i movimenti della scrittura. La teoria. Edizioni

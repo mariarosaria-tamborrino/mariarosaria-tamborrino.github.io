@@ -1,4 +1,4 @@
-baseURL = "https://www.psicologalecce.com/"
+baseURL = "/"
 languageCode = "it-it"
 title = "Psicologa Lecce"
 theme = 'ananke'

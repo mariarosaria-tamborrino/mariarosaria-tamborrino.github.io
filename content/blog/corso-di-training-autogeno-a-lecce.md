@@ -23,5 +23,5 @@ In particolare, verrà approfondito il training autogeno, che consiste in una
 serie di esercizi che si focalizzano su diverse parti del corpo, favorendo un
 generale stato di rilassamento a livello fisico e psichico.  
   
-Per maggiori informazioni e per dettagli sui costi, potete contattarmi tramite la sezione [contatti ](http://www.psicologalecce.com/contatti.html)di questo sito.
+Per maggiori informazioni e per dettagli sui costi, potete contattarmi tramite la sezione [contatti](/contatti.html)di questo sito.
 
