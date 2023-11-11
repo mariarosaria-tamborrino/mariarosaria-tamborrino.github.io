@@ -5,6 +5,8 @@ draft: false
 home_part: true
 featured_image: "biofeedback-psy-bolle.png"
 part_title: "Il mio lavoro ..."
+div_id: "mio_lavoro"
+next_div_id: "bambini"
 ---
 
 > Psicoterapia in persone con disturbi d'ansia (fobie, attacchi di panico), dell'umore e altre problematiche psicologiche

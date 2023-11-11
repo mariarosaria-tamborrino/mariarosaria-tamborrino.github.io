@@ -5,6 +5,8 @@ draft: true
 home_part: true
 featured_image: "comprensione-del-testo.png"
 part_title: "Collaborazioni ..."
+div_id: "collaborazioni"
+next_div_id: "post_section"
 ---
 
 > Intranimam

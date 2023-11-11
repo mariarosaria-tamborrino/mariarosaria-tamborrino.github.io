@@ -5,6 +5,8 @@ draft: false
 home_part: true
 featured_image: "comprensione-del-testo.png"
 part_title: "Bambini e adolescenti ..."
+div_id: "bambini"
+next_div_id: "collaborazioni"
 ---
 
 > Valutazione neuropsicologica e riabilitazione cognitiva in bambini e adolescenti
