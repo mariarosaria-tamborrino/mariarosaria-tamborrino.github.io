@@ -54,10 +54,6 @@ name = "facebook"
 url = "http://www.facebook.com/psicologalecce.tamborrino"
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/PsicologaLecce"
-
-[[params.ananke_socials]]
 name = "instagram"
 url = "https://www.instagram.com/m.tamborrino.studiointranimam/"
 

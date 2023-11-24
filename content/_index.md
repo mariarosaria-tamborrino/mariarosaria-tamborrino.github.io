@@ -3,7 +3,7 @@ title: ""
 description: "Dott.ssa Maria Rosaria Tamborrino"
 jobs: "Psicologa, psicoterapeuta cognitivo-comportamentale, EMDR Practitioner" 
 interests: ""
-next_div_id: "mio_lavoro"
+next_page: "/chi-sono"
 date: 2023-03-12T23:41:10+01:00
 cascade:
   omit_header_text: false

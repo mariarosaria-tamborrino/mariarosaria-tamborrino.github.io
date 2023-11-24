@@ -3,7 +3,8 @@
 }
 
 .site-body {
-    font-family: 'Source Serif Pro', serif;
+    font-family: 'Cantarell', serif;
+    color: #282828;
 }
 
 .part-title {
@@ -16,4 +17,11 @@
 
 html {
     scroll-behavior: smooth;
+}
+
+.ananke-socials a{
+    display: inline-block;
+    vertical-align: middle;
+    color: #505050;
+    fill: currentColor;
 }
