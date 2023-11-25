@@ -13,6 +13,8 @@
 
 .bg-all-site {
     background-color: #FFF4F4;
+    background-image: url('/sfondo_parte.png');
+    background-repeat: repeat-y;
 }
 
 html {
