@@ -19,10 +19,9 @@ sensazione di perdita di controllo del proprio corpo.
 La **paura di rivivere** l'attacco di panico rende difficile la gestione di
 alcune situazioni in particolare:
 
-  * nei momenti di relax o sonno;
-  * quando è necessario fare qualcosa che comporta un aumento della tensione (ad esempio, stare in spazi aperti o affollati, in auto nel traffico o in strade poco note, in viaggio, esibirsi in pubblico, affrontare situazioni nuove);
-  * quando ci si trova in luoghi chiusi (ad esempio, in aereo o in ascensore).
-
+* nei momenti di relax o sonno;
+* quando è necessario fare qualcosa che comporta un aumento della tensione (ad esempio, stare in spazi aperti o affollati, in auto nel traffico o in strade poco note, in viaggio, esibirsi in pubblico, affrontare situazioni nuove);
+* quando ci si trova in luoghi chiusi (ad esempio, in aereo o in ascensore).
   
 Fonte: Conoscere l'ansia. Opuscolo a cura della LIDAP Onlus
 

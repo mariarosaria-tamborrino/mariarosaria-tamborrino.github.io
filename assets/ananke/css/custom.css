@@ -27,3 +27,14 @@ html {
     color: #505050;
     fill: currentColor;
 }
+
+article img {
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border-width: 1px;
+    padding: 3px;
+    border-color: #d0d0d0;
+}
