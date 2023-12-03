@@ -21,6 +21,10 @@ html {
     scroll-behavior: smooth;
 }
 
+h1 {
+    font-size: 1.3em;
+}
+
 .ananke-socials a{
     display: inline-block;
     vertical-align: middle;
