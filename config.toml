@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "it-it"
 title = "Psicologa Lecce"
+copyright = "PI: 04022480752 - Psicologa Lecce"
 theme = 'ananke'
 
 
@@ -49,6 +50,20 @@ enableRobotsTXT = true
     ordered = false
     startLevel = 2
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
 [[params.ananke_socials]]
 name = "facebook"
 url = "http://www.facebook.com/psicologalecce.tamborrino"
@@ -62,5 +77,5 @@ name = "linkedin"
 url = "https://www.linkedin.com/pub/maria-rosaria-tamborrino/a/718/176"
 
 [[params.ananke_socials]]
-name = "e-mail"
+name = "🖂"
 url = "mailto:mariarosaria.tamborrino@gmail.com"

@@ -11,10 +11,18 @@
     font-family: 'Alex Brush', cursive;
 }
 
-.bg-all-site {
-    background-color: #FFF4F4;
-    background-image: url('/sfondo_parte.png');
-    background-repeat: repeat-y;
+@media (min-width: 1220px) {
+    .bg-all-site {
+        background-color: #FFF4F4;
+        background-image: url('/sfondo_parte.png');
+        background-repeat: repeat-y;
+    }
+}
+
+@media (max-width: 1219px) {
+    .bg-all-site {
+        background-color: #FFF4F4;
+    }
 }
 
 html {
@@ -41,4 +49,8 @@ article img {
     border-width: 1px;
     padding: 3px;
     border-color: #d0d0d0;
+}
+
+.🖂 {
+    font-size: 1.7rem;
 }
