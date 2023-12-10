@@ -1,0 +1,61 @@
+[more]
+other = "Altro"
+
+[allTitle]
+other = "Tutti i {{.Title }}"
+
+[recentTitle]
+other = "{{.Title }} Recenti"
+
+[readMore]
+other = "Per saperne di più"
+
+[by]
+other = "Da"
+
+[whatsInThis]
+other = "Contenuti della pagina"
+
+[related]
+other = "Correlati"
+
+[yourName]
+other = "Il tuo nome"
+
+[emailAddress]
+other = "Indirizzo email"
+
+[message]
+other = "Messaggio"
+
+[emailRequiredNote]
+other = "Indirizzo email obbligatorio."
+
+[send]
+other = "Invia"
+
+[taxonomyPageList]
+other = "Di seguito troverai le pagine che utilizzano il termine “{{ .Title }}”"
+
+[readingTime]
+one = "Un minuto di lettura"
+other = "{{ .Count }} minuti di lettura"
+
+[wordCount]
+one = "Una parola"
+other = "{{ .Count }} parole"
+
+[pageTitle]
+other = "{{ .Name }}"
+
+[next]
+other = "Prossimo"
+
+[previous]
+other = "Precedente"
+
+[readPost]
+other = "Leggi l'articolo"
+
+[allPosts]
+other = "Tutti gli articoli"
