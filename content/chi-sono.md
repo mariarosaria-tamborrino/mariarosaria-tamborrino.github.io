@@ -59,13 +59,4 @@ Ho partecipato in qualità di relatrice a diversi congressi:
 
 ## Dicono di me
 
-{{< rawhtml >}}
-<div id="js_widget" class="ie-common-widget ie-reviews">
-<script type="text/javascript" src="https://www.guidapsicologi.it/widget/review_extended?com=144274&h=3e5d193056b48d9a83f915c82975a8b4&v=10"></script>
-<div class="portal-by">
-<a id="js_portal_by" href="https://www.guidapsicologi.it?utm_source=144274&utm_medium=widget&utm_campaign=widget-review_extended" rel="nofollow" style="text-decoration:none;color:#617d97;font-family:Hind,sans-serif;">
-Da <span style='color:#149c97;font-family:Hind,sans-serif;font-weight:400;letter-spacing: 0.015em;text-decoration:underline;'>GuidaPsicologi.it</span>
-</a>
-</div>
-</div>
-{{< /rawhtml >}}
+[Raccomandazioni su GuidaPsicologi](https://www.guidapsicologi.it/studio/dottssa-maria-rosaria-tamborrino/opinioni)
