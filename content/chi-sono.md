@@ -10,15 +10,15 @@ draft: false
 
 ## Esperienza professionale
 
-Sono una psicologa e psicoterapeuta ad indirizzo *cognitivo-comportamentale*, specializzata in *neuropsicologia*, *schema therapy* e all'utilizzo del *biofeedback*. Inoltre sono *[EMDR](/blog/cose-lemdr-e-perche-e-utile) Practitioner*.
-Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199 e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 lavoro come psicologa all'interno del **Centro Autismo Territoriale** (CAT) della ASL di Lecce.
+Sono una psicologa e psicoterapeuta ad indirizzo *cognitivo-comportamentale*, specializzata in *neuropsicologia*, *schema therapy*, *compassion focused therapy* e all'utilizzo del *biofeedback*. Inoltre sono *[EMDR](/blog/cose-lemdr-e-perche-e-utile) Practitioner*.
+Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199. Faccio parte dello [Studio Intranimam](https://www.guidapsicologi.it/studio/intranimam) e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 lavoro come psicologa all'interno del **Centro Autismo Territoriale** (CAT) della ASL di Lecce.
 
 Ho maturato esperienza nella valutazione e riabilitazione neuropsicologica, con persone adulte e con bambini, lavorando dal 2007 al 2013 presso il Presidio di Riabilitazione funzionale “Istituto Santa Chiara”.
 
 Inoltre, ho seguito alcuni progetti in diverse scuole allo scopo di facilitare la gestione della classe attraverso il ricorso a tecniche comportamentali e di individuare precocemente difficoltà di apprendimento in bambini della scuola primaria e dell'infanzia.
 Sono stata componente del comitato di consulenti scientifici della Lega Italiana contro i Disturbi d'ansia, da Agorafobia e da Attacchi di Panico (LIDAP) per la provincia di Lecce,
 
-Ho collaborato con l'ASD "**Mollare mai**", associazione sportiva che ha come obiettivo quello di avvicinare le persone con disabilità allo sport, fornendo supporto psicologico ai partecipanti e alle loro famiglie. Attualmente, collaboro con l’Associazione “Io non mollo”, offrendo sostegno psicologico a pazienti oncologici e ai loro familiari.
+Ho collaborato con l'ASD "**Mollare mai**", associazione sportiva che ha come obiettivo quello di avvicinare le persone con disabilità allo sport, fornendo supporto psicologico ai partecipanti e alle loro famiglie. Attualmente, collaboro con l’Associazione “**Io non mollo**”, offrendo sostegno psicologico a pazienti oncologici e ai loro familiari.
 
 Sono Full Member dell'International Society of Schema Therapy (**ISST**), socia dell'**Associazione [EMDR Italia](https://emdr.it)** e dell'Associazione **[Mentecomportamento](https://www.mentecomportamento.it)**, Associazione Culturale che si occupa, a livello nazionale, di promozione della salute mentale e di plusdotazione cognitiva. Inoltre, sono socia **[AIRIPA](https://www.airipa.it)**, la principale associazione italiana che riunisce esperti e professionisti che operano nel campo della psicopatologia dell'apprendimento.
 
