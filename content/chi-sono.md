@@ -8,7 +8,7 @@ draft: false
 
 ![Maria Rosaria Tamborrino](/maria-rosaria-tamborrino-piccola.jpg)
 
-# Esperienza professionale
+## Esperienza professionale
 
 Sono una psicologa e psicoterapeuta ad indirizzo *cognitivo-comportamentale*, specializzata in *neuropsicologia*, *schema therapy* e all'utilizzo del *biofeedback*. Inoltre sono *[EMDR](/blog/cose-lemdr-e-perche-e-utile) Practitioner*.
 Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199 e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 lavoro come psicologa all'interno del **Centro Autismo Territoriale** (CAT) della ASL di Lecce.
@@ -24,7 +24,8 @@ Sono Full Member dell'International Society of Schema Therapy (**ISST**), socia 
 
 Inoltre, ho collaborato con **[Gifted And Talented Education (GATE)-Italy](http://talentgate.it)**, Associazione Scientifica Nazionale senza scopo di lucro, che riunisce i principali esperti nazionali sui temi della **plusdotazione** e dei bisogni educativi speciali per rispondere ai bisogni dei **bambini ad alto potenziale intellettivo** (gifted children) e con bisogni educativi speciali, delle loro famiglie e dei loro insegnanti.
 
-# Formazione
+## Formazione
+
 Nel 2003 ho conseguito la laurea triennale in **Scienze psicologiche, cognitive e psicobiologiche** con lode presso l'Università degli Studi di Padova e nel 2005, presso la stessa università, la laurea specialistica in **Psicologia sperimentale e neuroscienze cognitivo-comportamentale** con lode. Nel 2009 ho conseguito la specializzazione in **Psicoterapia cognitivo-comportamentale** presso l'Istituto Santa Chiara di Lecce.
 
 Nel 2007 ho frequentato il master di I livello in **Criminologia clinica e psicopatologia** forense presso l'Università del Salento. Inoltre, nel 2012 mi sono perfezionata in **Tecniche comportamentali in bambini con disturbi autistici ed evolutivi globali** presso l'Università di Modena e Reggio Emilia, nel 2013 in I *DSA (disturbi specifici dell'apprendimento): valutazione e intervento in ambito psicoeducativo** presso l'Università Europea di Roma. Inoltre, ho partecipato a diversi corsi di formazione e congressi inerenti la neuropsicologia, la psicoterapia e la psicofisiologia.
@@ -37,11 +38,13 @@ Nel 2019 ho frequentato il workshop in **Mindful Interbeing Mirror Therapy**, un
 Nel 2020 ho frequentato il training base in **Compassion Focused Therapy**.
 Nel 2022 ho frequentato il master di I livello in **Gifted. Didattica  e psicopedagogia per gli alunni con alto potenziale cognitivo e plusdotazione** organizzato dall'Università LUMSA.
 
-# Attività didattica
+## Attività didattica
+
 Dal 2010 al 2013 sono stata **docente** di neuropsicologia presso la scuola di specializzazione “Istituto Santa Chiara”.
 Ho tenuto numerosi corsi di formazione riguardanti la neuropsicologia, i disturbi dell'apprendimento, la plusdotazione cognitiva e le problematiche comportamentali, rivolti ad insegnanti, educatori, operatori dell'ambito sanitario e genitori. 
 
-# Partecipazioni a convegni
+## Partecipazioni a convegni
+
 Ho partecipato in qualità di relatrice a diversi congressi:
 
 * III Convegno Internazionale "Gifted Education e Inclusione: miti, mode e misconcezioni":  "QI o IAG? Quale indice riflette al meglio la plusdotazione?"
@@ -53,3 +56,16 @@ Ho partecipato in qualità di relatrice a diversi congressi:
 * I Congresso Regionale AIDAI-Puglia: Attenzione e funzioni esecutive in soggetti con DDAI: strumenti di valutazione e test neuropsicologici”
 * I Congresso Internazionale AINp: “La riabilitazione neuropsicologica in un soggetto con ritardo mentale lieve: un caso clinico”
 * IV Congresso Nazionale di Disabilità, Trattamento, Integrazione: “Cambiamenti qualitativi e quantitativi nell’invecchiamento normale e nei disturbi progressivi degenerativi”.
+
+## Dicono di me
+
+{{< rawhtml >}}
+<div id="js_widget" class="ie-common-widget ie-reviews">
+<script type="text/javascript" src="https://www.guidapsicologi.it/widget/review_extended?com=144274&h=3e5d193056b48d9a83f915c82975a8b4&v=10"></script>
+<div class="portal-by">
+<a id="js_portal_by" href="https://www.guidapsicologi.it?utm_source=144274&utm_medium=widget&utm_campaign=widget-review_extended" rel="nofollow" style="text-decoration:none;color:#617d97;font-family:Hind,sans-serif;">
+Da <span style='color:#149c97;font-family:Hind,sans-serif;font-weight:400;letter-spacing: 0.015em;text-decoration:underline;'>GuidaPsicologi.it</span>
+</a>
+</div>
+</div>
+{{< /rawhtml >}}
