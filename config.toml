@@ -77,5 +77,5 @@ name = "linkedin"
 url = "https://www.linkedin.com/pub/maria-rosaria-tamborrino/a/718/176"
 
 [[params.ananke_socials]]
-name = "🖂"
+name = "envelope"
 url = "mailto:mariarosaria.tamborrino@gmail.com"
