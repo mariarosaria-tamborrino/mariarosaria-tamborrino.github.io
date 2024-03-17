@@ -4,13 +4,13 @@
   <header class="cover bg-top">
     <div>
       {{ partial "site-navigation.html" . }}
-      <div class="tc-l pt3-l pb3-l ph3 ph4-ns">
+      <div class="tc-l pt1-l pb1-l ph3 ph4-ns">
         {{ if not .Params.omit_header_text }}
-          <h1 class="f1 f-subheadline-l fw2 mb0 lh-title site-header">
+          <h1 class="f1 f-subheadline-l fw2 mb0 mt0 lh-title site-header">
             {{ .Title | default .Site.Title }}
           </h1>
           {{ with .Params.description  }}
-            <div class="fw1 f5 f3-l measure-wide-l center lh-copy mt3 mb4">
+            <div class="fw1 f5 f3-l center lh-copy mt3 mb3">
               {{ . }}
             </div>
           {{ end }}

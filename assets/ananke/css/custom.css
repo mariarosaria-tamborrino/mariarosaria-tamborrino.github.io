@@ -54,3 +54,13 @@ article img {
 .🖂 {
     font-size: 1.7rem;
 }
+
+.pagination {
+    margin: 0;
+    text-align: center;
+    padding-left: 0;
+}
+
+.pagination li {
+    margin-right: 0;
+}
