@@ -3,7 +3,7 @@ title: "Dire e fare - Evento Settimana del Cervello 2025"
 date: 2025-03-12
 omit_header_text: true
 background_image: 'sfondo_articoli.png'
-featured_image: 'articles/Settimana_del_Cervello_2025.jpg'
+featured_image: 'articles/Settimana_del_cervello_2025.jpg'
 show_featured_image_at_the_top: false
 show_featured_image_at_the_bottom: true
 show_reading_time: true
