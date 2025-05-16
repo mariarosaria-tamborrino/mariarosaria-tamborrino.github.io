@@ -11,7 +11,7 @@ draft: false
 ## Esperienza professionale
 
 Sono una psicologa e psicoterapeuta ad indirizzo *cognitivo-comportamentale*, formata in *neuropsicologia*, *schema therapy*, *compassion focused therapy* e all'utilizzo del *biofeedback*. Inoltre sono *[EMDR](/blog/cose-lemdr-e-perche-e-utile) Practitioner*.
-Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199. Faccio parte dello [Studio Intranimam](https://www.guidapsicologi.it/studio/intranimam) e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 lavoro come psicologa all'interno del **Centro Autismo Territoriale** (CAT) della ASL di Lecce.
+Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199. Faccio parte dello [Studio Intranimam](https://www.guidapsicologi.it/studio/intranimam) e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 ad aprile 2025 ho lavorato come psicologa all'interno del **Centro Autismo Territoriale** (CAT) dell'ASL di Lecce. Dal 1 maggio 2025 sono Dirigente Psicologa presso l'Unità Operativa Complessa di **Neuropsichiatria infantile** della stessa ASL.
 
 Ho maturato esperienza nella valutazione e riabilitazione neuropsicologica, con persone adulte e con bambini, lavorando dal 2007 al 2013 presso il Presidio di Riabilitazione funzionale “Istituto Santa Chiara”.
 
