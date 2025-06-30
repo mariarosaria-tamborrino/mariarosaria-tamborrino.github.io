@@ -11,11 +11,11 @@ draft: false
 ## Esperienza professionale
 
 Sono una psicologa e psicoterapeuta ad indirizzo *cognitivo-comportamentale*, formata in *neuropsicologia*, *schema therapy*, *compassion focused therapy* e all'utilizzo del *biofeedback*. Inoltre sono *[EMDR](/blog/cose-lemdr-e-perche-e-utile) Practitioner*.
-Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199. Faccio parte dello [Studio Intranimam](https://www.guidapsicologi.it/studio/intranimam) e attualmente svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le) e a **Lecce**. ​Da gennaio 2023 ad aprile 2025 ho lavorato come psicologa all'interno del **Centro Autismo Territoriale** (CAT) dell'ASL di Lecce. Dal 1 maggio 2025 sono Dirigente Psicologa presso l'Unità Operativa Complessa di **Neuropsichiatria infantile** della stessa ASL.
+Sono iscritta all'Ordine degli Psicologi della Regione Puglia con n. 2199. Svolgo l'attività di libera professionista presso il mio studio privato a **Martano** (Le). ​Da gennaio 2023 ad aprile 2025 ho lavorato come psicologa all'interno del **Centro Autismo Territoriale** (CAT) dell'ASL di Lecce. Dal 1 maggio 2025 sono Dirigente Psicologa presso l'Unità Operativa Complessa di **Neuropsichiatria infantile** della stessa ASL.
 
 Ho maturato esperienza nella valutazione e riabilitazione neuropsicologica, con persone adulte e con bambini, lavorando dal 2007 al 2013 presso il Presidio di Riabilitazione funzionale “Istituto Santa Chiara”.
 
-Inoltre, ho seguito alcuni progetti in diverse scuole allo scopo di facilitare la gestione della classe attraverso il ricorso a tecniche comportamentali e di individuare precocemente difficoltà di apprendimento in bambini della scuola primaria e dell'infanzia.
+Ho fatto parte dello [Studio Intranimam](https://www.guidapsicologi.it/studio/intranimam) fino al 2025 e ho seguito alcuni progetti in diverse scuole allo scopo di facilitare la gestione della classe attraverso il ricorso a tecniche comportamentali e di individuare precocemente difficoltà di apprendimento in bambini della scuola primaria e dell'infanzia.
 Sono stata componente del comitato di consulenti scientifici della Lega Italiana contro i Disturbi d'ansia, da Agorafobia e da Attacchi di Panico (LIDAP) per la provincia di Lecce.
 
 Ho collaborato con l'ASD "**Mollare mai**", associazione sportiva che ha come obiettivo quello di avvicinare le persone con disabilità allo sport, fornendo supporto psicologico ai partecipanti e alle loro famiglie. Attualmente, collaboro con l’Associazione “**Io non mollo**”, offrendo sostegno psicologico a pazienti oncologici e ai loro familiari.
